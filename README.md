@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jayasenthur
-- 👀 I’m interested in Data analyst 
-- 🌱 I’m currently learning sqlserver
-- 💞️ I’m looking for a Data analyst job 
+- 👋 Hi, I’m @Jaya
+- 👀 I’m interested in Data Engineering  
+- 🌱 I’m currently learning clouding
+- 💞️ I’m looking for a entry level positions in data engineering
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
